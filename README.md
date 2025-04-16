@@ -152,7 +152,6 @@ This document Is based on the `README.md` from https://github.com/kholia/OSX-KVM
 ### Sources
 Below are the links I use to create this document.
 
--https://github.com/kholia/OSX-KVM
--https://mike42.me/blog/2019-08-how-to-use-the-qemu-bridge-helper-on-debian-10
+https://github.com/kholia/OSX-KVM and https://mike42.me/blog/2019-08-how-to-use-the-qemu-bridge-helper-on-debian-10
 
 Feel free to point any errors or updates on this document or copy this document.
