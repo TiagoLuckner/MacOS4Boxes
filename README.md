@@ -114,9 +114,9 @@ This document Is based on the `README.md` from https://github.com/kholia/OSX-KVM
     trick usually.
 
     ```
-    sed "s/CHANGEME/$USER/g" macOS-libvirt-Catalina.xml > macOS.xml
+    sed "s/CHANGEME/$USER/g" macOS-libvirt-Catalina.xml > macos.xml
 
-    virt-xml-validate macOS.xml
+    virt-xml-validate macos.xml
     ```
 * Edit the file `/etc/qemu/bridge.conf`, if the file don't exist, create It.
     ```
